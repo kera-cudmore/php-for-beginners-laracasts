@@ -16,7 +16,7 @@ To boot up PHP's built-in web server: php -S localhost:8888
 | ✅ | 3 | Your first PHP tag | [Lesson 3 Notes](section1/lesson3.php) |
 | ✅ | 4 | Variables | [Lesson 4 Notes](section1/lesson4.php) |
 | ✅ | 5 | Conditionals and Booleans | [Lesson 5 Notes](section1/lesson5.php) |
-| ✅ | 6 | Arrays | [Lesson 6 Notes] |
+| ✅ | 6 | Arrays | [Lesson 6 Notes](section1/lesson6.php) |
 || 7 | Associative Arrays | [Lesson 7 Notes] |
 || 8 | Functions and Filters | [Lesson 8 Notes] |
 || 9 | Lambda Functions | [Lesson 9 Notes] |

@@ -14,6 +14,8 @@
     </ul>
 
     <h2>Dynamic Lists using an array</h2>
+        
+        <!-- Create the array -->
         <?php
             $books = [
                 "Do androids dream of electric sheep",
@@ -22,6 +24,7 @@
             ]
         ?>
 
+                <!-- Using a foreach loop to echo out the books -->
         <ul>
             <?php foreach($books as $book) {
                 echo "<li>$book</li>";
@@ -32,6 +35,7 @@
 
         <h2>Shorthand for foreach loops</h2>
 
+        <!-- The above can get a bit messy if there are numberous tags nested, so we can clean up the code as follows -->
         <ul>
             <?php foreach ($books as $book) : ?>
                 <li><?= $book ?></li>
