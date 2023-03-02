@@ -25,7 +25,7 @@ To boot up PHP's built-in web server: php -S localhost:8888
 
 ### Section 2: Dynamic Web Applications
 
-| ✅ | No | Lesson | Notes |
+| ✅ | No | Lesson | Notes | Homework |
 | :---: | :---: | :--- | :--- |
 || 12 | Page Links ||
 || 13 | PHP Partials ||
@@ -38,7 +38,7 @@ To boot up PHP's built-in web server: php -S localhost:8888
 || 20 | SQL Injection Vulnerabilities Explained ||
 
 ### Section 3: Notes Mini Project
-| ✅ | No | Lesson | Notes |
+| ✅ | No | Lesson | Notes | Homework |
 | :---: | :---: | :--- | :--- |
 || 21 | Database Tables and Indexes ||
 || 22 | Render the Notes and Note Page ||
@@ -50,7 +50,7 @@ To boot up PHP's built-in web server: php -S localhost:8888
 || 28 | Extract a Simple Validator Class ||
 
 ### Section 4: Project Organisation
-| ✅ | No | Lesson | Notes |
+| ✅ | No | Lesson | Notes | Homework |
 | :---: | :---: | :--- | :--- |
 || 29 | Resourceful Naming Conventions ||
 || 30 | PHP Autoloading and Extraction ||
@@ -63,6 +63,7 @@ To boot up PHP's built-in web server: php -S localhost:8888
 
 ### Section 5: Sessions and Authentication
 
-| ✅ | No | Lesson | Notes |
+| ✅ | No | Lesson | Notes | Homework |
 | :---: | :---: | :--- | :--- |
 || 37 | PHP Sessions 101 ||
+|| 38| Regoister a new user | |
