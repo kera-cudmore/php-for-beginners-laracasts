@@ -18,7 +18,7 @@ To boot up PHP's built-in web server: php -S localhost:8888
 | ✅ | 5 | Conditionals and Booleans | [Lesson 5 Notes](section1/lesson5.php) |
 | ✅ | 6 | Arrays | [Lesson 6 Notes](section1/lesson6.php) |
 | ✅ | 7 | Associative Arrays | [Lesson 7 Notes](section1/lesson7.php) | ✅ |
-|| 8 | Functions and Filters | [Lesson 8 Notes] |
+| ✅ | 8 | Functions and Filters | [Lesson 8 Notes](section1/lesson8.php) | ✅ |
 || 9 | Lambda Functions | [Lesson 9 Notes] |
 || 10 | Separate Logic from the template | [Lesson 10 Notes] |
 || 11 | Technical Check-in 1 (Quiz) | |
